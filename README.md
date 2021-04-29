@@ -7,6 +7,7 @@ Then the basket icon shows the number of odds choosen And into the console the l
 Postman API Test : 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/7506bce24fae3b102df3)
 
+
 General Questions: 
 1 - To me integration test in an API context is for check the API's stability and fonctionalies in the time and after the different modification and/or upgrade.
 
