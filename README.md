@@ -1,5 +1,8 @@
 # BetclicTest
-Scenario
+Test scenario sample :
+Scenario : Given I'am on the Champion's Leage overview page 
+When I choose 3 odds on 2 diferents game
+Then the basket icon shows the number of odds choosen And into the console the last variable "selection" shows a JSON with the odds and their Id.
 
 General Questions: 
 1 - To me integration test in an API context is for check the API's stability and fonctionalies in the time and after the different modification and/or upgrade.
